@@ -2,13 +2,6 @@
 
 A simple and powerful Chrome extension to easily rename your browser tabs.
 
-## Screenshots
-
-*(Placeholders for screenshots - ensure your screenshots are in the `screenshots/` folder)*
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-
 ## Installation
 
 1. Clone this repository or download the ZIP.
